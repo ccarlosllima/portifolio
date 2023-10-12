@@ -100,8 +100,7 @@ section {
 
 .home-content .text-animate {
     position: relative;
-    width: 32.8rem;
-
+    width: 58rem;
 }
 
 .home-content .text-animate h3 {
@@ -109,6 +108,11 @@ section {
     font-weight: 700;
     color: transparent;
     -webkit-text-stroke: .7px var(--main-color);
+}
+
+.home-content .text-animate h2 {
+    font-size: 2.3rem;
+    padding-bottom: 2rem;
 }
 
 .home-content p {
@@ -301,7 +305,7 @@ span {
 }
 
 .about-content p {
-    font-size: 1.6rem;
+    font-size: 2.6rem;
     margin: 2rem 0 3rem;
 }
 
@@ -681,6 +685,7 @@ span {
 
     .footer p {
         margin-top: 2rem;
+        align-items: center;
     }
 }
 
